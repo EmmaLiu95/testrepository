@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>son</h1>
     <ul>
       <li v-for='(item,index) in plist' 
           :key='index'
