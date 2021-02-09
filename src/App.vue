@@ -4,6 +4,7 @@
     <router-link :to="'/about/' + userId" >关于</router-link>
     <router-view></router-view>
     <h1>修改第一次</h1>
+    <h2>修改第二次</h2>
   </div>
 </template>
 
